@@ -1,0 +1,8 @@
+- use "max3.sml"
+= ;
+[opening max3.sml]
+val max3 = fn : real * real * real -> real
+val it = () : unit
+- max3(1.0, 2.0, 3.0);
+val it = 3.0 : real
+-
