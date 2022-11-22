@@ -1,0 +1,4 @@
+val reverse = fn : ''a list -> ''a list
+val it = () : unit
+- reverse([1,2,3]);
+val it = [3,2,1] : int list
